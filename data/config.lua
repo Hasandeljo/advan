@@ -2,15 +2,15 @@ do local _ = {
 	plug = {
     "TD"
   },
-  Helper = "HELPER_CLI_BOT",
-  Token = "463320595:AAH1KYjoRa5D2gle0_L8-w-BRkzsEcpTC68",
+  Helper = "HelperShuperbot",
+  Token = "1678563275:AAEXiPfDsvDOQ8qqWeXJEFKt3EONNyMqCw0",
   bot_owner = {
-    435014771,
-    437978064
+    1574130132,
+    1007452806
   },
   cmd = "^[/!#]",
   sudo_users = {
-    437978064
+    1574130132
   }
 }
 return _
